@@ -23,7 +23,7 @@ This is a web based application developed for health related telugu based websit
 ## Screenshots
 
 
-<img width="960" alt="2023-05-24 (2)" src="https://github.com/20A31A05I3/frt-project/blob/main/assets/images/banner1.jpg">
+<img width="960" alt="2023-05-24 (2)" src="https://github.com/20A31A05I3/frt-project/blob/main/assets/images/Screenshot%20(77).png">
 
 
 
