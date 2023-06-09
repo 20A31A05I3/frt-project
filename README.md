@@ -28,17 +28,17 @@ This is a web based application developed for health related telugu based websit
 
 
 ### About us-
-<img width="960" alt="2023-05-24 (7)" src="https://github.com/20A31A05I3/frt-project/assets/127341000/89c38519-619a-4c4d-a8e0-d3f9e75c47dc">
+<img width="960" alt="2023-05-24 (7)" src="https://github.com/20A31A05I3/frt-project/blob/main/assets/images/Screenshot%20(78).png">
 
 
 ### Contact us-
 
 
 
-<img width="960" alt="2023-05-24 (12)" src="https://github.com/20A31A05I3/frt-project/assets/127341000/b48bc02c-2c6f-4455-b45f-58fe53c46c6f">
+<img width="960" alt="2023-05-24 (12)" src="https://github.com/20A31A05I3/frt-project/blob/main/assets/images/Screenshot%20(79).png">
 
 ### Health bot
-<img width="737" alt="image" src="https://github.com/20A31A05I3/frt-project/assets/127341000/19a1b3bc-d27b-45e3-8ac2-8037e82a5800">
+<img width="737" alt="image" src="https://github.com/20A31A05I3/frt-project/blob/main/assets/images/Screenshot%20(80).png">
 
 
 
