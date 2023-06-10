@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 ** Project Link**-https://lively-water-0295f6710.3.azurestaticapps.net
 
-** Project demo video link**-
+** Project demo video link**- https://youtu.be/sS01AqsJ20A
 
 ## Azure technologies used for Project 
 - Static web apps
